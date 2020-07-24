@@ -1,0 +1,19 @@
+{
+  "name": "party-playlist",
+  "version": "1.0.0",
+  "description": "Create playlists where multiple users can add to the queue, from various streaming services",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node.js",
+    "express",
+    "music"
+  ],
+  "author": "@Brad--",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
